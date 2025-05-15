@@ -1,0 +1,16 @@
+/* Smooth scrolling for sections */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Custom scrollbar for a modern touch */
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-track {
+    background: #464141;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #3c3333;
+    border-radius: 10px;
+}
