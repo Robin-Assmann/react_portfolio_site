@@ -23,6 +23,11 @@ A modern, responsive personal portfolio website built with **React**, **Tailwind
 - **Express.js** - Web framework for Node.js
 
 
+## Screenshots
+![About](https://github.com/user-attachments/assets/4922b38c-a715-4542-85c7-a0805af805e8)
+![Expertises](https://github.com/user-attachments/assets/f5c2c16b-f1b4-49f6-a426-d897b82e933b)
+![Projects](https://github.com/user-attachments/assets/b233680f-7341-4f33-bf21-f3d833c3ddf3)
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
